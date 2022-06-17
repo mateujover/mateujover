@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mateujover
-- 👀 I’m interested in embedded systems, smart grid technologies and the internet of things field.
-- 🌱 I’m currently learning on fault tolerance mechanisms, Time Sensitive Networking and smart electrical control.
-- 💞️ I’m looking to collaborate on projects related to Time Sensitive Networking and dependable or fault-tolerant systems.
+  - 🎓 Master in Intelligent Systems at UIB, **Internet of Things** and Artificial Intelligence. Graduated in 2022.
+  - 🎓 Electrical and Electronics Engineer at UIB. Graduated on 2022
+- 👀 I’m interested in **embedded systems**, smart grid technologies and the internet of things field.
+- 🌱 I’m currently learning on **fault tolerance mechanisms**, Time Sensitive Networking and smart electrical control.
 - 📫 You can reach me through email at mateu.jover@gmail.com
 
 <!---
