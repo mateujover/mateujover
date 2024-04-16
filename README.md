@@ -2,8 +2,8 @@
   - 🎓 Master in Intelligent Systems at UIB, **Internet of Things** and Artificial Intelligence. Graduated in 2022.
   - 🎓 Electrical and Electronics Engineer at UIB. Graduated in 2020
 - 👀 I’m interested in **embedded systems**, smart grid technologies and the internet of things field.
-- 🌱 I’m currently learning on **fault tolerance mechanisms**, Time Sensitive Networking and smart electrical control.
-- 📫 You can reach me through email at mateu.jover@gmail.com
+- 🌱 I’m currently learning on **fault tolerance mechanisms** for Time Sensitive Networking and smart electrical control.
+- 📫 You can reach me through email at mateu.jover@uib.es
 
 <!---
 mateujover/mateujover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
